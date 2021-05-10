@@ -1,11 +1,13 @@
 .app-main{
   display: flex;
-  
-
 }
 .app-left{
-  width: 50%;
+  width: 70%;
+  height:18rem;
+  
 }
 .app-right{
-  width:50%;
+  width:30%;
+  height: 53rem;
+  background-color: chocolate;
 }

@@ -6,15 +6,15 @@ function MainCarousel(){
         
             <Carousel style={{"width":"100px"}}  autoPlay={true} infiniteLoop={true} showThumbs={false} showStatus={false} showIndicators={false} showArrows={false}>
                 <div>
-                    <img src="./assets/hotel1.jpg" height="550px" />
+                    <img src="./assets/hotel1.jpg" height="860rem" />
                     
                 </div>
                 <div>
-                    <img src="./assets/hotel2.jpg" height="550px"  />
+                    <img src="./assets/hotel2.jpg"  height="800rem"  />
                     
                 </div>
                 <div>
-                    <img src="./assets/hotel3.jpg" height="550px" />
+                    <img src="./assets/hotel3.jpg"  height="800rem" />
                     
                 </div>
             </Carousel>
