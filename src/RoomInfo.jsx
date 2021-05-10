@@ -34,13 +34,13 @@ function RoomInfo() {
           <div className="main-topright">
               <div className="main-trt">
                   <label>Rooms</label>
-                  <input type="number" min="1"/>
+                  <input type="number" min="1" max="5"/>
                   </div>
               <div className="main-trb">
               <label>Adults</label>
-                  <input type="number" min="0"/>
+                  <input type="number" min="1" max="10"/>
                   <label>Child</label>
-                  <input type="number" min="0"/>
+                  <input type="number" min="0" max="10"/>
               </div>
           </div>
         </div>

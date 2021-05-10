@@ -4,8 +4,11 @@
 
 }
 .app-left{
-  width: 50%;
+  width: 60%;
 }
 .app-right{
   width:50%;
+  margin-left: 2%;
+  /* background-color:darkgray;
+  color: aliceblue; */
 }
