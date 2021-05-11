@@ -1,14 +1,12 @@
 .app-main{
   display: flex;
-  
-
 }
 .app-left{
   width: 60%;
+  height:18rem;
+  
 }
 .app-right{
-  width:50%;
-  margin-left: 2%;
-  /* background-color:darkgray;
-  color: aliceblue; */
+  width:30%;
+  height: 53rem;
 }
